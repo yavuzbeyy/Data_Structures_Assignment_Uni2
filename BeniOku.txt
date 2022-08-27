@@ -1,0 +1,2 @@
+Bazı sayılarda okurken satırıp yazdırıp hata veriyor muhtemelen " " karakterini sayıları alırken kullandığım için
+bazen hata vermekte.
